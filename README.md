@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fxvvv
+- 👋 Hi, I’m @fadex10
 - 👀 I’m interested in singing and playing badminton
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
