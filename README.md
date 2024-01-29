@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fadex10
 - 👀 I’m interested in singing and playing badminton
 - 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fx1044437562@163.com
 
 <!---
