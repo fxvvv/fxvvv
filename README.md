@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fadex10
 - 👀 I’m interested in singing and playing badminton
 - 🌱 I’m currently learning deep learning
-- 📫 How to reach me fx1044437562@163.com
+- 📫 How to reach me 1044437562@qq.com
 
 <!---
 fxvvv/fxvvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
